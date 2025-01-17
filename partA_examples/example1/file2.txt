@@ -1,0 +1,3 @@
+Hello!
+
+I am an example for a file that has some content
